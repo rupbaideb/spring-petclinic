@@ -1,6 +1,5 @@
 # Spring PetClinic Sample Application [![Build Status](https://travis-ci.org/spring-projects/spring-petclinic.png?branch=master)](https://travis-ci.org/spring-projects/spring-petclinic/)
-# I am adding 2nd line
-# I am adding 3rd line
+# I am adding a new line to check dummy change
 Deploy this sample application to Pivotal Web Services:
 
 <a href="https://push-to.cfapps.io?repo=https%3A%2F%2Fgithub.com%2Fspring-projects%2Fspring-petclinic.git">
